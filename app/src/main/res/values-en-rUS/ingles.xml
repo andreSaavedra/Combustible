@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_filtro">filter</string>
+    <string name="action_ajustes">Settings</string>
+    <string name="Seleccionar_Tipo_de_Combustible">Select a Tipe of Fuel</string>
+    <string name="Agrega_otro_combustible">Add Another Tipe of Fuel</string>
+    <string name="Selecionar_Empresa_Gasolinera">Select Brand</string>
+    <string name="Selecionar_Orden_de_Precios">Select Price Order</string>
+
+    <string-array name="spinner5">
+        <item>Petro Perú</item>
+        <item>Primax</item>
+        <item>Repsol</item>
+        <item>Pecsa</item>
+        <item>Gazel</item>
+    </string-array>
+
+    <string-array name="spinner4">
+        <item>Petro Perú</item>
+        <item>Primax</item>
+        <item>Repsol</item>
+        <item>Pecsa</item>
+        <item>Gazel</item>
+    </string-array>
+
+    <string-array name="Combustible">
+        <item>GNV</item>
+        <item>GLP</item>
+        <item>Gasol 90</item>
+        <item>Gasol 95</item>
+        <item>Gasol 97</item>
+        <item>Gasol 98</item>
+    </string-array>
+
+    <string-array name="spinner6">
+        <item>Highest to Lowest</item>
+        <item>Lowest to Highest</item>
+    </string-array>
+
+    <string name="Buscar">Search</string>
+    <string name="cargando">Loading…</string>
+    <string name="ingresar_como_invitado">Log in as Guest</string>
+    <string name="buscar">Search</string>
+    <string name="Rango">The range of the search is up to 50 km.</string>
+
+    <string name="cambiaridioma">Change Languaje</string>
+    <string name="boton_de_idioma1">English</string>
+    <string name="boton_de_idioma2">Español</string>
+    <string name="politicas_y_privacidad">Politics and privacy</string>
+    <string name="cerrar_sesion">Log out</string>
+
+
+</resources>

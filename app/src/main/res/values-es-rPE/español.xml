@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Combustible</string>
+    <string name="title_activity_filtro">filtro</string>
+
+
+    <string name="action_ajustes">Ajustes</string>
+    <string name="Seleccionar_Tipo_de_Combustible">Seleccionar Tipo de Combustible</string>
+    <string-array name="Combustible">
+        <item>GNV</item>
+        <item>GLP</item>
+        <item>Gasol 90</item>
+        <item>Gasol 95</item>
+        <item>Gasol 97</item>
+        <item>Gasol 98</item>
+    </string-array>
+
+
+    <string name="Agrega_otro_combustible">Agrega otro tipo de combustible</string>
+    <string-array name="spinner4">
+        <item>Petro Perú</item>
+        <item>Primax</item>
+        <item>Repsol</item>
+        <item>Pecsa</item>
+        <item>Gazel</item>
+    </string-array>
+
+
+    <string name="Selecionar_Empresa_Gasolinera">Selecciona Empresa Gasolinera</string>
+    <string-array name="spinner5">
+        <item>Petro Perú</item>
+        <item>Primax</item>
+        <item>Repsol</item>
+        <item>Pecsa</item>
+        <item>Gazel</item>
+    </string-array>
+
+
+    <string name="Selecionar_Orden_de_Precios">Seleccionar Orden de Precios</string>
+    <string-array name="spinner6">
+        <item>Mayor a Menor</item>
+        <item>Menor a Mayor</item>
+    </string-array>
+
+    <string name="Buscar">Buscar</string>
+    <string name="cargando">Cargando…</string>
+    <string name="ingresar_como_invitado">Ingresar como invitado</string>
+    <string name="buscar">Buscar</string>
+    <string name="Rango">La Búsqueda funciona con un GPS con un rango de 50 km.</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="cambiaridioma">Cambiar Idioma</string>
+    <string name="boton_de_idioma1">English</string>
+    <string name="boton_de_idioma2">Español</string>
+    <string name="politicas_y_privacidad">Politicas y Privacidad</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+
+
+</resources>
