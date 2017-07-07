@@ -42,8 +42,17 @@
     </string-array>
 
 
-    <string name="Buscar"></string>
-
+    <string name="Buscar">Buscar</string>
+    <string name="cargando">Cargando…</string>
+    <string name="ingresar_como_invitado">Ingresar como invitado</string>
+    <string name="buscar">Buscar</string>
+    <string name="la_b_squeda_funciona_con_un_gps_con_un_rango_de_50_km">La Búsqueda funciona con un GPS con un rango de 50 km.</string>
+    <string name="agrega_otro_tipo_de_combustible">Agrega otro tipo de Combustible</string>
+    <string name="selecciona_empresa_gasolinera">Selecciona empresa Gasolinera</string>
+    <string name="selecciona_tipo_de_combustible">Selecciona tipo de Combustible</string>
+    <string name="selecciona_orden_de_precio">Selecciona orden de Precio</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
 
     <string-array name="idioma">
         <item>Español</item>
