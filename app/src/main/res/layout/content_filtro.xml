@@ -54,7 +54,7 @@
         android:layout_marginTop="35dp"
         android:background="@color/verdefondo"
         android:text="@string/buscar"
-        android:textColor="@color/colorblancotexto" />
+        android:textColor="@android:color/white" />
 
     <SeekBar
         android:id="@+id/seekBar"
