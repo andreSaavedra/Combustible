@@ -83,10 +83,10 @@ tools:showIn="@layout/activity_filtro">
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/la_b_squeda_funciona_con_un_gps_con_un_rango_de_50_km"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:layout_alignTop="@+id/textView"
-        android:layout_alignParentEnd="true" />
+        android:layout_centerHorizontal="true"
+        android:text="@string/Rango"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
     <TextView
         android:id="@+id/textView6"
@@ -95,7 +95,7 @@ tools:showIn="@layout/activity_filtro">
         android:layout_alignParentStart="true"
         android:layout_below="@+id/combustible"
         android:layout_marginTop="21dp"
-        android:text="@string/selecciona_tipo_de_combustible"
+        android:text="@string/Seleccionar_Tipo_de_Combustible"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         tools:layout_editor_absoluteX="25dp"
         tools:layout_editor_absoluteY="94dp" />
@@ -107,7 +107,7 @@ tools:showIn="@layout/activity_filtro">
         android:layout_alignParentStart="true"
         android:layout_below="@+id/spinner4"
         android:layout_marginTop="23dp"
-        android:text="@string/selecciona_empresa_gasolinera"
+        android:text="@string/Selecionar_Empresa_Gasolinera"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="144dp" />
@@ -128,7 +128,7 @@ tools:showIn="@layout/activity_filtro">
         android:layout_alignParentStart="true"
         android:layout_below="@+id/spinner5"
         android:layout_marginTop="22dp"
-        android:text="@string/selecciona_orden_de_precio"
+        android:text="@string/Selecionar_Orden_de_Precios"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
     </RelativeLayout>
