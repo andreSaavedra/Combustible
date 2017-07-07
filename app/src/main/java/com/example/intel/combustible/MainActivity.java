@@ -12,7 +12,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
 
     private Button mBtLaunchActivity;
-
+    private Button salir;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,11 +28,20 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
 
+            salir = (Button) findViewById(R.id.salir);
+            salir.setOnClickListener((new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+
+                    finish();
+                    System.runFinalization();
+                    System.exit(0);
+                    MainActivity.this.finish();
+                }
+
+            });
+
     }
-
-
-
-
         private void launchActivity() {
 
             Intent intent = new Intent(this, filtro.class);

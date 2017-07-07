@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name"> </string>
     <string name="title_activity_filtro">filtro</string>
-
+    <string name="salir">salir</string>
 
     <string name="action_ajustes">Ajustes</string>
     <string name="Seleccionar_Tipo_de_Combustible">Seleccionar Tipo de Combustible</string>
